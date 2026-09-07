@@ -7,5 +7,12 @@ C03,Can I enrol in advanced electives early?,C03Q01,Am I eligible to take a thir
 C03,Can I enrol in advanced electives early?,C03Q02,Can I enrol in advanced electives early?,current student,year 1
 C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q01,Does the Bachelor of Commerce prepare students for further postgraduate study?,parent/guardian,pre-enrolment
 C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q02,Can I go on to a Master's after this degree?,current student,year 3
-C05,,,,,
-,,,,,
+C05,What majors are available in the Bachelor of Graphic Design?,C05Q01,What majors can I choose from in the Bachelor of Graphic Design?,prospective student,pre-enrolment
+C05,What majors are available in the Bachelor of Graphic Design?,C05Q02,What courses does Bachelor of Graphic Design offer?,prospective student,pre-enrolment
+C06,What career outcomes are available after studying Graphic Design?,C06Q01,What career opportunities are available after completing the Bachelor of Graphic Design?,prospective student,pre-enrolment
+C06,What career outcomes are available after studying Graphic Design?,C06Q02,What jobs can I pursue after graduating from the Bachelor of Graphic Design?,current student,year 3
+C07,What does the Bachelor of Games cover?,C07Q01,What does the Bachelor of Games focus on?,prospective student,pre-enrolment
+C07,What does the Bachelor of Games cover?,C07Q02,What areas will I study in the Bachelor of Games?,current student,year 1
+C08,What are the entry requirements for the Bachelor of Games?,C08Q01,What are the prerequisites for the Bachelor of Games?,prospective student,pre-enrolment
+C08,What are the entry requirements for the Bachelor of Games?,C08Q02,What English requirements do I need to meet for the Bachelor of Games?,prospective student,pre-enrolment
+
