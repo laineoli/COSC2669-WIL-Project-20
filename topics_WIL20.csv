@@ -1,0 +1,11 @@
+﻿topic_id,topic,question_id,question,persona,year_level
+C01,Can I study a Bachelor of Business online?,C01Q01,Can I study a Bachelor of Business online?,prospective student,pre-enrolment
+C01,Can I study a Bachelor of Business online?,C01Q02,Is there an online version of the Business degree?,current student,year 1
+C02,What career outcomes does the Marketing major lead to?,C02Q01,What career outcomes does the Marketing major lead to?,parent/guardian,pre-enrolment
+C02,What career outcomes does the Marketing major lead to?,C02Q02,What jobs can students expect after majoring in Marketing?,current student,year 1
+C03,Can I enrol in advanced electives early?,C03Q01,Am I eligible to take a third-year elective as a first-year student?,current student,year 1
+C03,Can I enrol in advanced electives early?,C03Q02,Can I enrol in advanced electives early?,current student,year 1
+C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q01,Does the Bachelor of Commerce prepare students for further postgraduate study?,parent/guardian,pre-enrolment
+C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q02,Can I go on to a Master's after this degree?,current student,year 3
+,,,,,
+,,,,,
