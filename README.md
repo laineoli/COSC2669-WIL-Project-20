@@ -17,7 +17,7 @@ We reproduced the RAG pipeline from [Walert](https://github.com/rmit-ir/walert) 
 **Approach:**
 - **Retrieval:** BM25 (via `rank_bm25`), following Walert's lexical retrieval baseine
 - **Generation:** Ollama (llama3.2:3b), run locally at no cost, using a prompt structure adapted from Walert's `RAG_SYSTEM.py`
-- **Validation:** Pipeline tested end-to-end against Walert's own dataset (120 FAG passages, 96 labelled test questions)
+- **Validation:** Pipeline tested end-to-end against Walert's own dataset (120 FAQ passages, 96 labelled test questions)
 
 **Preliminary results:**
 - 67.71% top-3 retrieval accuracy (65/96 questions), evaluated against Walert's provided relevance judgements (`qrels.txt`)
