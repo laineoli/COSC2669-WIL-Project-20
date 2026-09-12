@@ -1,0 +1,61 @@
+topic_id,topic,question_id,question,persona,status
+C01,Can I study a Bachelor of Business online?,C01Q01,Can I study a Bachelor of Business online?,prospective student,known
+C01,Can I study a Bachelor of Business online?,C01Q02,Is there an online version of the Business degree?,current student,known
+C02,What career outcomes does the Marketing major lead to?,C02Q01,What career outcomes does the Marketing major lead to?,parent/guardian,known
+C02,What career outcomes does the Marketing major lead to?,C02Q02,What jobs can students expect after majoring in Marketing?,current student,known
+C03,Can I enrol in advanced electives early?,C03Q01,Am I eligible to take a third-year elective as a first-year student?,current student,known
+C03,Can I enrol in advanced electives early?,C03Q02,Can I enrol in advanced electives early?,current student,known
+C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q01,Does the Bachelor of Commerce prepare students for further postgraduate study?,parent/guardian,known
+C04,Does the Bachelor of Commerce prepare students for further postgraduate study?,C04Q02,Can I go on to a Master's after this degree?,current student,known
+C05,What majors are available in the Bachelor of Graphic Design?,C05Q01,What majors can I choose from in the Bachelor of Graphic Design?,prospective student,known
+C05,What majors are available in the Bachelor of Graphic Design?,C05Q02,What courses does Bachelor of Graphic Design offer?,prospective student,known
+C06,What career outcomes are available after studying Graphic Design?,C06Q01,What career opportunities are available after completing the Bachelor of Graphic Design?,prospective student,known
+C06,What career outcomes are available after studying Graphic Design?,C06Q02,What jobs can I pursue after graduating from the Bachelor of Graphic Design?,current student,known
+C07,What does the Bachelor of Games cover?,C07Q01,What does the Bachelor of Games focus on?,prospective student,known
+C07,What does the Bachelor of Games cover?,C07Q02,What areas will I study in the Bachelor of Games?,current student,known
+C08,What are the entry requirements for the Bachelor of Games?,C08Q01,What are the prerequisites for the Bachelor of Games?,prospective student,known
+C08,What are the entry requirements for the Bachelor of Games?,C08Q02,What English requirements do I need to meet for the Bachelor of Games?,prospective student,known
+C09,"Do I need a background in animation or games to get into the Master of Animation, Games, and Interactivity program?",C09Q01,"Do I need a background in animation or games to get into the Master of Animation, Games, and Interactivity program?",prospective student,known
+C09,"Do I need a background in animation or games to get into the Master of Animation, Games, and Interactivity program?",C09Q02,"Can I apply for the Master of Animation, Games, and Interactivity without having studied animation or games before?",prospective student,known
+C10,Is a selection task/folio required for the application to the Bachelor of Graphic Design?,C10Q01,Is a selection task/folio required for the application to the Bachelor of Graphic Design?,prospective student,known
+C10,Is a selection task/folio required for the application to the Bachelor of Graphic Design?,C10Q02,Is there a creative task I need to complete before getting accepted to the Bachelor of Graphic Design?,prospective student,known
+C11,Does the Bachelor of Games degree require English language test scores for international applicants?,C11Q01,Does the Bachelor of Games degree require English language test scores for international applicants?,prospective student,known
+C12,"Can I choose not to do a major at all, and still complete the Bachelor of Business degree?",C12Q01,"Can I choose not to do a major at all, and still complete the Bachelor of Business degree?",prospective student,known
+C13,Does the Bachelor of Commerce include work-integrated learning?,C13Q01,Does the Bachelor of Commerce include work-integrated learning?,prospective student,known
+C14,What software should I be expected to learn during the Bachelor of Games?,C14Q01,What software should I be expected to learn during the Bachelor of Games?,prospective student,known
+C14,What software should I be expected to learn during the Bachelor of Games?,C14Q02,What software do I need to have in order to complete the Bachelor of games?,prospective student,known
+C15,Can I go on to a Master's after completing a Bachelor of Business?,C15Q01,Can I go on to a Master's after completing a Bachelor of Business?,current student,known
+C16,Is the workload split evenly between Law and Commerce subjects across the degree?,C16Q01,Is the workload split evenly between Law and Commerce subjects across the degree?,current student,known
+C17,"If I've already started a major in Bachelor of Laws/Bachelor of Commerce, is it possible to change it?",C17Q01,"If I've already started a major in Bachelor of Laws/Bachelor of Commerce, is it possible to change it?",current student,known
+C17,"If I've already started a major in Bachelor of Laws/Bachelor of Commerce, is it possible to change it?",C17Q02,Can a student switch majors halfway through the Bachelor of Laws + Commerce program?,parent/guardian,known
+C18,Can I transfer between the Bachelor of Business to the Bachelor of Commerce and vice versa?,C18Q01,Can I transfer between the Bachelor of Business to the Bachelor of Commerce and vice versa?,current student,known
+C19,How will work-integrated learning work in my degree?,C19Q01,How will work-integrated learning work in my degree?,current student,known
+C20,How can I structure my degree part-time if I plan on working part time?,C20Q01,How can I structure my degree part-time if I plan on working part time?,current student,known
+C21,What is the total duration for the dual Bachelor of Laws/Bachelor of Commerce?,C21Q01,What is the total duration for the dual Bachelor of Laws/Bachelor of Commerce?,parent/guardian,known
+C22,"Are there any additional costs apart from tuition, like equipment or software, for the Bachelor or Graphic Design?",C22Q01,"Are there any additional costs apart from tuition, like equipment or software, for the Bachelor or Graphic Design?",parent/guardian,known
+C23,Will students get any industry experience while completing Commerce?,C23Q01,Will students get any industry experience while completing Commerce?,parent/guardian,known
+C24,How much does the Bachelor of Business cost?,C24Q01,How much does the Bachelor of Business cost?,parent/guardian,known
+C25,What computer specifications will my child need for the Bachelor of games?,C25Q01,What computer specifications will my child need for the Bachelor of games?,parent/guardian,known
+C26,What student supports are available for my child?,C26Q01,What student supports are available for my child?,parent/guardian,known
+C27,Is the Bachelor of Graphic Design harder than the Bachelor of Games?,C27Q01,Is the Bachelor of Graphic Design harder than the Bachelor of Games?,prospective student,out-of-kb
+C27,Is the Bachelor of Graphic Design harder than the Bachelor of Games?,C27Q02,"Which is more difficult, the Bachelor of Games or Graphic Design?",prospective student,out-of-kb
+C28,Is the ATAR for Bachelor of Business going to change in 2028?,C28Q01,Is the ATAR for Bachelor of Business going to change in 2028?,prospective student,out-of-kb
+C28,Is the ATAR for Bachelor of Business going to change in 2028?,C28Q02,What ATAR will I need for the Bachelor of Business in 2028?,prospective student,out-of-kb
+C29,Which degree has the best employment rate?,C29Q01,Which degree has the best employment rate?,prospective student,out-of-kb
+C30,Which lecturer is the best for the Bachelor of Commerce subjects?,C30Q01,Which lecturer is the best for the Bachelor of Commerce subjects?,current student,out-of-kb
+C31,What are the chances my application will be accepted?,C31Q01,What are the chances my application will be accepted?,prospective student,out-of-kb
+C32,What laptop should I buy for the Bachelor of Games?,C32Q01,What laptop should I buy for the Bachelor of Games?,current student,out-of-kb
+C33,What salary can I expect immediately after graduating?,C33Q01,What salary can I expect immediately after graduating?,current student,out-of-kb
+C34,What job openings exist in the industry for the Bachelor of Games?,C34Q01,What job openings exist in the industry for the Bachelor of Games?,current student,out-of-kb
+C35,Are there plans for any new majors for the Bachelor of Games?,C35Q01,Will there be any new majors introduced into the course in the next 2 years?,parent/guardian,out-of-kb
+C35,Are there plans for any new majors for the Bachelor of Games?,C35Q02,Are there plans for any new majors for the Bachelor of Games?,prospective student,out-of-kb
+C36,How many subjects do I need to complete for the Bachelor of Business?,C36Q01,How many subjects do I need to complete for the Bachelor of Business?,prospective student,known
+C37,Can I complete two majors in the Bachelor of Business?,C37Q01,Can I complete two majors in the Bachelor of Business?,prospective student,known
+C38,"If I choose a double major in the Bachelor of Business, can I also complete a minor?",C38Q01,"If I choose a double major in the Bachelor of Business, can I also complete a minor?",current student,known
+C39,How many core subjects are required in the Bachelor of Commerce?,C39Q01,How many core subjects are required in the Bachelor of Commerce?,prospective student,known
+C40,When do students normally begin studying their major in the Bachelor of Commerce?,C40Q01,When do students normally begin studying their major in the Bachelor of Commerce?,current student,known
+C41,Can I do a second major if I choose Business Information Systems as my Bachelor of Business major?,C41Q01,Can I do a second major if I choose Business Information Systems as my Bachelor of Business major?,current student,known
+C42,How long does the online Bachelor of Business take if I study part-time?,C42Q01,How long does the online Bachelor of Business take if I study part-time?,prospective student,known
+C43,Approximately how many hours per week should I study for each subject in the online Bachelor of Business?,C43Q01,Approximately how many hours per week should I study for each subject in the online Bachelor of Business?,current student,known
+C44,Does the Bachelor of Games require applicants to complete a selection task?,C44Q01,Does the Bachelor of Games require applicants to complete a selection task?,prospective student,known
+C45,"Do RMIT graduates from the Bachelor of Design (Games) need to complete the selection task when applying for the Master of Animation, Games and Interactivity?",C45Q01,"Do RMIT graduates from the Bachelor of Design (Games) need to complete the selection task when applying for the Master of Animation, Games and Interactivity?",current student,known
