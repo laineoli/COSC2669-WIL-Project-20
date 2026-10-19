@@ -152,10 +152,7 @@ Earlier notebooks are retained to demonstrate how the project evolved through ev
 |---|---|
 | Walert reproduction | `Walert_Reproduction.ipynb` |
 | Initial retrieval and DeepEval | `WIL20_Evaluation.ipynb` |
-| Readability evaluation | Readability notebook |
-| Robustness and abstention testing | OutofKB notebook |
-| BM25, semantic and hybrid comparison | Semantic&Hybrid notebook |
-| Final integrated prototype and interface | Semantic&Hybrid_Interface notebook |
+| Final integrated prototype and interface | `WIL20_Evaluation_&_Readability_&OutofKB_&Semantic&Hybrid_Interface.ipynb` |
 | Evaluation questions | `topics_WIL20.csv` |
 | Knowledge-base content | `passages_WIL20.csv` |
 | Relevance judgements | `qrels_WIL20.txt` |
